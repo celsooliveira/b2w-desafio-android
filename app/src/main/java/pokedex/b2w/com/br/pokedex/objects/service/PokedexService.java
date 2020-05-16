@@ -79,7 +79,7 @@ public class PokedexService {
 
                     adapter.insertList(pokemon);
                 } else {
-                    new Exception();
+                     new Exception();
                 }
 
             }
